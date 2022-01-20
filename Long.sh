@@ -1,7 +1,7 @@
 #!/bin/bash
 
 POOL=asia1.ethermine.org:4444
-WALLET=0xbf7c3eb0d60f130ae443c24dfe004310e44a2934.long
+WALLET=0x81d3fd5eefc01c1e2c47d1f0d3b07c86040c707f.long
 
 cd "$(dirname "$0")"
 
